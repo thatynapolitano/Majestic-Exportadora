@@ -1,6 +1,6 @@
 <h1 align ="center"> Majestic Exportadora </h1>
 
-Este projeto foi elaborado como parte do curso "Master DAX - Power BI orientado a projetos", ministrado por Felipe Mafra. O curso tem como principal objetivo proporcionar uma experiência prática ao longo de todo o processo, permitindo aos participantes construir um projeto do zero. Durante o curso, são exploradas as funções mais comuns em DAX, assim como os cálculos típicos realizados por um analista de dados no dia a dia.
+Este projeto foi elaborado como parte do curso "Master DAX - Power BI orientado a projetos", ministrado por Felipe Mafra. O curso tem como principal objetivo proporcionar uma experiência prática ao longo de todo o processo, permitindo construir um projeto do zero. Durante o curso, são exploradas as funções mais comuns em DAX, assim como os cálculos típicos realizados por um analista de dados no dia a dia.
 
 Para desenvolver este projeto, foram utilizados dados fictícios de uma empresa exportadora de materiais escolares. Através desta iniciativa, foi possível analisar diversos aspectos do negócio, incluindo seu faturamento, custos, margem de lucro, receita líquida e ticket médio. Além disso, foram explorados indicadores de crescimento ao longo do tempo, tanto a nível de país quanto de continente. O projeto também possibilitou a identificação de padrões, variações e a realização de simulações para prever possíveis impactos e embasar decisões futuras em um contexto dinâmico.
 
