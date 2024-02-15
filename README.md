@@ -6,7 +6,7 @@ Para desenvolver este projeto, foram utilizados dados fictícios de uma empresa 
 
 Para visualização em web: https://shorturl.at/cvW15 
 
-Destaco abaixo alguns dos aprendizados e informações importantes:
+<h3> Destaco abaixo alguns dos aprendizados e informações importantes: </h3>
 
 <h3>Layout</h3>
 
