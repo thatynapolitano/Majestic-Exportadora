@@ -11,9 +11,9 @@ Para visualização em web: https://shorturl.at/cvW15
 <h3>Layout</h3>
 
 - Destaco a utilização de Tooltip (dica de ferramenta do Power BI) no gráfico de "Venda Bruta por Categoria" na página de Análise Geral, com o intuito de detalhar algumas informações gráficas. Sendo bastante útil para economizar espaço, principalmente quando não é possível colocar maiores detalhamentos em um único gráfico ou sua representação não ficaria visualizamente agradável e legível. 
-- Foram importados os seguintes visuais para uso em layout por meio do Power BI Visuals: Sparkline by OKViz, Image Grid, Advance Card, Simple Image, Brick Chart by MAQ Software e radarChart.
-- Alguns nomes de tabela e títulos das páginas foram criadas em DAX a fim de tornar a manutenção mais rápida e prática. Recurso útil para nomes de tabela que se repetem, nomes de KPIs, etc. Uma vez o nome alterado por dax, todas as páginas que utilizam essa medida em texto serão afetadas. Nesse sentido economizaria tempo, podendo ser reaproveitados ganhando maior de agilidade para manutenção.
-- Utilização de URL para importar imagens para os meus visuais, como imagens de países no gráfico "Receita por País" na página de Análise Geral.
+- Foram importados os seguintes visuais para uso em layout por meio do Power BI Visuals: Sparkline by OKViz, Image Grid, Advance Card, Simple Image, Brick Chart by MAQ Software e radarChart. Importar visuais são interessantes para experimentar em estudos e criar narrativas diferentes, porém não recomendo utilizar em contextos profissionais. A manutenção desses visuais acabam sendo complexas para o desenvolvedor, além de existir a possibilidade de ficarem indisponíveis para importação na loja, gerando uma quebra na visualização de alguns dados. Por isso, em um projeto real, recomendo utilizar visuais padrões do PBI.
+- Alguns nomes de tabela e títulos das páginas foram criadas em DAX a fim de tornar a manutenção mais rápida e prática. Recurso útil para nomes de tabela que se repetem, nomes de KPIs, avisos padronizados, etc. Uma vez a legenda / texto alterado por dax, todas as páginas que utilizam essa medida serão afetadas. Nesse sentido economizaria tempo, podendo ser reaproveitados ganhando maior de agilidade para manutenção.
+- Utilização de URL para importar imagens para os meus visuais, como imagens de países no gráfico "Receita por País" na página de Análise Geral. É importante deixar essas imagens em ambiente seguro e que não será alterado, para que não haja quebra de visualização caso aquela url não exista.
 
 <h3>DAX</h3>
 
