@@ -4,7 +4,7 @@ Este projeto foi elaborado como parte do curso "Master DAX - Power BI orientado 
 
 Para desenvolver este projeto, foram utilizados dados fictícios de uma empresa exportadora de materiais escolares. Através desta iniciativa, foi possível analisar diversos aspectos do negócio, incluindo seu faturamento, custos, margem de lucro, receita líquida e ticket médio. Além disso, foram explorados indicadores de crescimento ao longo do tempo, tanto a nível de país quanto de continente. O projeto também possibilitou a identificação de padrões, variações e a realização de simulações para prever possíveis impactos e embasar decisões futuras em um contexto dinâmico.
 
-Para visualização em web: https://shorturl.at/fhsxG  
+Para visualização em web: https://shorturl.at/cvW15 
 
 Destaco abaixo alguns dos aprendizados e informações importantes:
 
