@@ -18,7 +18,7 @@ Para visualização em web: https://shorturl.at/cvW15
 <h3>DAX</h3>
 
 - Uso de variáveis dentro de medidas utilizando convenções a fim de padronização, além de possibilitar maior otimização e redução de linhas de código. 
-- Criação de tabelas virtuais para análise de cross sell.  
+- Tabelas virtuais para análise de cross sell. As tabelas virtuais são úteis para agilizar cálculos e economizar espaço. 
 - Utilização da função SWITCH() para classificações qualitativas de produto a partir do cálculo de receita líquida.
 - Função CALCULATE() para cálculos dentro de contextos específicos, como margem de lucro (%) para o país top 1 da América do Sul.
 - Função USERELATIONSHIP() para criar relacionamento entre tabelas que inicialmente não tinham um relacionamento no modelo de dados, a fim de criar novos insights.
